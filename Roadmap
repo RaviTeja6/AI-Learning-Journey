@@ -1,0 +1,17 @@
+AI-Learning-Journey/
+│
+├── README.md
+├── Day-1/
+│   ├── AI-Fundamentals.md
+│   ├── Prompt-Engineering.md
+│   └── GitHub-Basics.md
+│
+├── Day-2/
+│   ├── AI-Tools.md
+│   ├── AI-Projects.md
+│   └── Lessons-Learned.md
+│
+└── Projects/
+    ├── Project-1/
+    ├── Project-2/
+    └── Project-3/
